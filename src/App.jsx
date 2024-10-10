@@ -1,9 +1,10 @@
+import Navbar from "./Components/Navbar/Navbar"
 
 function App() {
 
   return (
     <>
-    <h2>mary</h2>
+   <Navbar />
     </>
   )
 }
