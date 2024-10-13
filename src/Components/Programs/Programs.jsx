@@ -13,6 +13,9 @@ const Programs = () => {
       <div className='program'>
         <img src={people} alt="" />
       </div>
+      <div className='program'>
+        <img src={friend} alt="" />
+      </div>
     </div>
   )
 }
