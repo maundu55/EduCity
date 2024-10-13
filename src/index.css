@@ -28,3 +28,16 @@ a{
     border: 0;
     outline: 0;
 }
+.btn img{
+    width: 20px;
+    margin-left: 10px;
+}
+.btn.dark-btn{
+    background: #212EA0;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+}
