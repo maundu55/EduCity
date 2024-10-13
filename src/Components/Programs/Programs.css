@@ -36,7 +36,6 @@
 .caption img{
     width: 60px;
     margin-bottom: 10px;
-   fill: #fff;   
 }
 .program:hover .caption{
     opacity: 1;
